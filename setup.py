@@ -14,3 +14,5 @@ for command,text in commands:
 
 print "Module successfully added."
 print "Please restart to get notifications."
+
+
