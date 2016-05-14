@@ -7,4 +7,6 @@ It uses BeautifulSoup module for scrapping web pages. It gets the live scores fr
 For adding this module just run the setup.py python file.
 For removing this module just run the uninstall.py python file.
 
+Updates the scores every 60 seconds.
+
 It runs only in ubuntu.
