@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Cric-Notify
+Type=Application
+Exec=python /usr/share/cric-notify/src/live-scores.py
+Terminal=false
+Comment=Keeps you updated with the cricket action.
+Categories=Utility;
+
+X-GNOME-Autostart-enabled=true
+X-GNOME-Autostart-Delay=0
+Name[en_IN]=cric-notify
